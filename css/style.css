@@ -36,6 +36,10 @@ body {
     font-size: 19px;
 }
 
+.navbar-default .navbar-nav>li>a:hover {
+    background-color: #e7e7e7;
+}
+
 .btn-default {
     font-size: 19px;
 }
